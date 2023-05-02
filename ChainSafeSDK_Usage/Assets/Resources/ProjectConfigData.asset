@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06e300208fa3ee04a99d031a99308441, type: 3}
   m_Name: ProjectConfigData
   m_EditorClassIdentifier: 
-  ProjectID: 
-  ChainID: 
-  Chain: 
-  Network: 
-  RPC: 
+  projectID: 33029e97-3a12-4b88-b6bf-3b9904252215
+  chainID: 97
+  chain: Binance
+  network: Testnet
+  rpc: https://nd-170-340-589.p2pify.com/ad96a9bfa05fd2521074417fbd39b438
