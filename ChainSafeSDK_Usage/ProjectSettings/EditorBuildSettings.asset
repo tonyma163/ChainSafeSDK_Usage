@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Web3Unity/Scenes/WalletLogin.unity
-    guid: cc28e1075e9584f1698219d041278648
+    path: Assets/Scenes/WalletLogin 1.unity
+    guid: 59cd42eba805a984c815be22c10c9d90
   - enabled: 1
     path: Assets/Scenes/NFTOwnership.unity
     guid: 6ef847001d681d84f994ac82cd373fa3
+  - enabled: 1
+    path: Assets/Scenes/RecordTime.unity
+    guid: b96a53c894f0e464f89e50aa9e20f604
   m_configObjects: {}

@@ -16,4 +16,4 @@ MonoBehaviour:
   chainID: 97
   chain: Binance
   network: Testnet
-  rpc: https://nd-170-340-589.p2pify.com/ad96a9bfa05fd2521074417fbd39b438
+  rpc: https://bsc-testnet.public.blastapi.io
